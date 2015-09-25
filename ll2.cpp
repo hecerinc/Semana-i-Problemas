@@ -25,14 +25,12 @@ public:
 			head = n;
 	}
 
-
 	// Agrega un elemento al inicio de la lista
 	void unshift();
 
 
 	// void delete();
 	bool isEmpty(){	return (this->head == NULL);}
-
 
 	int length(){
 		if(this->isEmpty())
@@ -45,8 +43,6 @@ public:
 		}
 		return length;
 	}
-
-
 	Node* getLast(){
 		if(this->isEmpty())
 			return head;
@@ -55,8 +51,6 @@ public:
 			iterator = iterator->next;
 		return iterator;
 	}
-
-
 	void show(){
 		Node *ptr = this->head;
 		cout << "The List is ";
