@@ -46,6 +46,49 @@ Talk about your solution first
 Make drawings
 Should I write implementation of matrix of sums? Interviewers want to see the main problem solved, you can often assume or skip trivial implementations
 */
-
+/*
 En el individual usa un stack | AND y NOT 
 Prioridad: NOT AND OR
+
+http://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+http://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/
+http://www.programcreek.com/2014/02/leetcode-find-minimum-in-rotated-sorted-array/
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+*/
+
+DIA 1 
+	- Trabajo Grupal
+	- P2P 
+	- Sudoku
+DIA 2 
+	Montse
+	- Conferencia del papa de Montse
+	- Trabajo Grupal
+	- Trabajo individual F||V&&
+
+DIA 3
+	MSFT Guy
+	- Trabajo P2P
+		- Given a linked list reverse it (yo la hice) (Axel a mi)
+		- Dado una lista, rotala (yo se la puse a Evan)
+	- Entrevista 1:
+		- Dado un array de ints, regresa la primera combinacion que te de un int know
+	- Entrevista 2:
+		- Dado un string, voltealo y reverse the order
+	- Entrevista 3:
+		- Dado un linked list, write a function that will return if there is a loop
+DIA 4
+	Apple Guy
+	- Trabajo Grupal
+		- 4B
+		- 4C
+	- Entrevistas:
+		- See msft1.cpp. Dadas dos linked lists determina el punto donde convergen (si convergen)
+		- Dado una matriz de nxn determina el # de paths para llegar de la esq. superior izq a la esq. inferior derecha. Si nada mas puedes avanzar a la derecha y hacia abajo
+		- Implementa una clase y la subclase de CallCenter
+DIA 5
+	Chava de MSFT
+	[x] P2P que ya subi
+	- Naty
+	- Marco
+	- Ricky

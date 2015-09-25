@@ -8,6 +8,7 @@ Only positive numbers (no zero)
 Return 1 pair of a b (the first one that you find)
 You can just give the index of the array
 
+// APPLE GUY:
 Marcel:
 Given 2 linked lists, find out if they merge into one (if they have a common node)
 LL A and the LL B are different size
@@ -18,7 +19,7 @@ A -> B -> C -> D -> E -> Z
 Return "Node E" is where they converge
 
 
-Axel: 
+Axel: #2
 Array of chars
 string will consist of several words seperated by spaces
 Reverse the string and also reverse the words
