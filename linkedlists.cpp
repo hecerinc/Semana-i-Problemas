@@ -1,3 +1,7 @@
+/* 
+	Create a merge function that will take two linked lists and b and return a 
+	third linked list with the merge of a + b
+*/
 #include <iostream>
 #include <conio.h>
 #include <process.h>

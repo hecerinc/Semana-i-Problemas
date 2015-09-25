@@ -36,7 +36,7 @@ Given a linked list, check if it has a loop
 // Tortoise and the Heir alogirthm
 
 bool isLoop(LinkedList myList){
-	Node *pPointe = myList.pHead;
+	Node *pPointer = myList.pHead;
 	std::map<addr, int> map;
 	while(pPointer != NULL && map[pPointer]==null){
 		map[pPointer] = pointer->iValue;
